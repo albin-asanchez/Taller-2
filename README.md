@@ -2,6 +2,8 @@
 
 ## 1. Crear la Base de Datos y la Tabla
 ![image](https://github.com/user-attachments/assets/12c163b3-c243-4755-9656-5d38d3985473)
+![image](https://github.com/user-attachments/assets/66820c52-b344-48a3-a898-c414ea92cc55)
+
 
 ## 2. Insertar Datos en la Tabla
 ![image](https://github.com/user-attachments/assets/6d03bb2e-c4a3-4d81-8ac8-1cf3d1465d25)
